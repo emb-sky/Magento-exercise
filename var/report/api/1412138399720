@@ -1,0 +1,1 @@
+"Fatal Error: 'Class Embitel\\Mymodule\\Model\\StaticService contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Magento\\Framework\\App\\ActionInterface::execute)' in '\/var\/www\/html\/magento-open-source\/app\/code\/Embitel\/Mymodule\/Model\/StaticService.php' on line 10"

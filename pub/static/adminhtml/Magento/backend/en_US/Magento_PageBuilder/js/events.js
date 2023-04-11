@@ -1,0 +1,1 @@
+/var/www/html/magento-open-source/vendor/magento/module-page-builder/view/base/web/js/events.js
