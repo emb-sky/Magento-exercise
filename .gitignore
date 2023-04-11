@@ -1,2 +1,6 @@
 app/code/etc/env.php
 app/code/etc/config.php
+bin/*
+generated/*
+pub/*
+var/*
