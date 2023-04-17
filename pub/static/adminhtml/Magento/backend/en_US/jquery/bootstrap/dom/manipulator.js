@@ -1,1 +1,0 @@
-/var/www/html/magento-open-source/lib/web/jquery/bootstrap/dom/manipulator.js
