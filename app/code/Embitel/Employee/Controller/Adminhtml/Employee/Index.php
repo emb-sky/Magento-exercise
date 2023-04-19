@@ -60,9 +60,7 @@ class Index extends Action{
 
           public function execute()
           {
-             //die("yes");
-            //  $this->_group->loadLayout();
-            //  $this->_group->renderLayout();
+           
             $resultPage = $this -> resultPageFactory ->create();
             $resultPage->setActiveMenu('Embitel_Employee::employee');
             $resultPage-> addBreadcrumb(__('Employee feedback form'),__('Employee feedback form'));

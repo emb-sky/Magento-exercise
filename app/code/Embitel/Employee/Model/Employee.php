@@ -8,7 +8,7 @@ class Employee extends AbstractModel
     /**
      * Define resource model
      */
-    protected function __construct()
+    protected function _construct()
     {
         $this->_init('Embitel\Employee\Model\ResourceModel\Employee');
     }
