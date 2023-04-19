@@ -14,7 +14,7 @@
     <settings>
         <buttons>
             <button name="add">
-                <url path="*/*/new"/>
+                <url path="*/*/forms"/>
                 <class>primary</class>
                 <label translate="true">Add New Block</label>
             </button>
@@ -169,10 +169,5 @@
                 <label translate="true">Suggestion</label>
             </settings>
         </column>
-        <actionsColumn name="actions" class="Magento\Cms\Ui\Component\Listing\Column\BlockActions">
-            <settings>
-                <indexField>id</indexField>
-            </settings>
-        </actionsColumn>
     </columns>
 </listing>
