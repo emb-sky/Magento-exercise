@@ -326,6 +326,7 @@ return [
         'Magento_WishlistAnalytics' => 1,
         'Magento_WishlistGraphQl' => 1,
         'Embitel_Employee' => 1,
+        'Embitel_Helloworld' => 1,
         'Embitel_Mymodule' => 1,
         'Form_Empmodule' => 1,
         'PayPal_Braintree' => 1,
